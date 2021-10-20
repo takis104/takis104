@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @takis104
-- 👀 I’m interested in Computer Engineering & Informatics, Internet of Things (IoT), Data Science
+- 👀 I’m interested in Computer Engineering & Informatics, Internet of Things (IoT), Artificial Intelligence (AI), Data Science
 - 🌱 I’m currently learning Python, Kotlin and Scala
 - 📫 How to reach me, email: chr.balatsouras@gmail.com
 
