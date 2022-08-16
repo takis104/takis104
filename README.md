@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @takis104
-- 👀 I’m interested in Computer Engineering & Informatics, Internet of Things (IoT), Ubiquitous Computing, Software Engineering, Artificial Intelligence (AI), Big Data Systems and Data Science
+- 👀 I’m interested in Computer Engineering & Informatics and more specifically in: Internet of Things (IoT), Ubiquitous Computing, Software Engineering, Artificial Intelligence (AI), Big Data Systems and Data Science
 - 🌱 I’m currently learning new tech skills...
 - 📫 How to reach me: chr.balatsouras@gmail.com, LinkdedIn Profile: https://www.linkedin.com/in/christos-panagiotis-mpalatsouras-66ab07146
 
