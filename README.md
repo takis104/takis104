@@ -5,6 +5,7 @@
 - 🎓 Christos Balatsouras @ Google Scholar: https://scholar.google.com/citations?user=twsAYkIAAAAJ&hl=el
 - 🎓 Christos Balatsouras on DBLP: https://dblp.org/pid/330/5010.html
 - 🪪 ORCID: https://orcid.org/0000-0001-8914-7559
+- 📺 YouTube Channel: https://www.youtube.com/@christosbalatsouras
 
 <!---
 takis104/takis104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
