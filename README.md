@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @takis104
 - 👀 I’m interested in Computer Engineering & Informatics and more specifically in: Internet of Things (IoT), Ubiquitous Computing, Software Engineering, Artificial Intelligence (AI), Machine Learning (ML), WEB Technologies, Big Data Systems and Data Science
-- 📫 How to reach me: chr.balatsouras@gmail.com, LinkdedIn Profile: https://www.linkedin.com/in/christos-panagiotis-mpalatsouras-66ab07146
+- 📫 How to reach me: LinkdedIn Profile: https://www.linkedin.com/in/christos-panagiotis-mpalatsouras-66ab07146
 - 🎓 Christos Balatsouras @ Google Scholar: https://scholar.google.com/citations?user=twsAYkIAAAAJ&hl=el
 - 🎓 Christos Balatsouras on DBLP: https://dblp.org/pid/330/5010.html
 - 🔬 Christos Balatsouras on ResearchGate: https://www.researchgate.net/profile/Christos-Panagiotis-Balatsouras
