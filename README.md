@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @takis104
+- 🎓 PhD Candidate at the Department of Computer Engineering & Informatics (CEID) at the University of Patras.
 - 🎓 Graduated from the Department of Computer Engineering & Informatics (CEID) at the University of Patras.
 - 👀 I’m interested in Computer Engineering & Informatics and more specifically in: Internet of Things (IoT), Ubiquitous Computing, Software Engineering, Artificial Intelligence (AI), Machine Learning (ML), WEB Technologies, Big Data Systems and Data Science
 - 📫 How to reach me: LinkdedIn Profile: https://www.linkedin.com/in/christos-panagiotis-mpalatsouras-66ab07146
