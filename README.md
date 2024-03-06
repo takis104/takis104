@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @takis104, I am a Computer Engineer, MEng & 10x Developer
+- 👋 Hi, I’m @takis104, I am a Computer Engineer, MEng & 10x Developer (One Man Entire IT Department)
 - 💼 Data & AI Business Analyst at Accenture Greece.
 - 🎓 PhD Candidate at the Department of Computer Engineering & Informatics (CEID) at the University of Patras.
 - 🎓 Graduated from the Department of Computer Engineering & Informatics (CEID) at the University of Patras.
