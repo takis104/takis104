@@ -27,7 +27,10 @@
 ### Databases
 - mySQL
 - PostgreSQL
+
+### Cloud
 - Google Firebase
+- Microsoft Azure
 
 ### Data & AI
 - Pandas
