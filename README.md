@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m @takis104, I am a Computer Engineer, MEng & 10x Developer (One Man Entire IT Department)
 - 💼 Data & AI Business Consulting at Accenture Greece.
 - 🎓 PhD Candidate at the Department of Computer Engineering & Informatics (CEID) at the University of Patras.
@@ -11,6 +12,31 @@
 - 🪪 ORCID: https://orcid.org/0000-0001-8914-7559
 - 📺 YouTube Channel: https://www.youtube.com/@christosbalatsouras
 <!--- - 🌱 I’m currently learning new tech skills... --->
+
+## Current Tech Stack
+### Front-end
+- React.JS
+
+### Back-end
+- Flask
+- FastAPI
+
+### Mobile
+- Android: Kotlin/Java
+
+### Databases
+- mySQL
+- PostgreSQL
+- Google Firebase
+
+### Data & AI
+- Pandas
+- Numpy
+- Sci-kit Learn
+- Tensorflow/Keras
+
+### Big Data Management
+- Apache Spark
 
 <!---
 takis104/takis104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
