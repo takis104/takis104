@@ -22,7 +22,7 @@
 - FastAPI
 
 ### Mobile
-- Android: Kotlin/Java
+- Android: Kotlin
 
 ### Databases
 - mySQL
