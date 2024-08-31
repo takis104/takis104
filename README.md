@@ -13,6 +13,7 @@
 - 📺 YouTube Channel: https://www.youtube.com/@christosbalatsouras
 <!--- - 🌱 I’m currently learning new tech skills... --->
 
+<!---
 ## Current Tech Stack
 ### Front-end
 - React.JS
@@ -40,6 +41,7 @@
 
 ### Big Data Management
 - Apache Spark
+--->
 
 <!---
 takis104/takis104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
