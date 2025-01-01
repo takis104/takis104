@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m @takis104, I am a Computer Engineer, MEng & 10x Developer (One Man Entire IT Department)
 - 💼 Data & AI Business Consulting at Accenture Greece (September 2023 - November 2024).
-- 🎓 PhD Candidate at the Department of Computer Engineering & Informatics (CEID) at the University of Patras.
+- 🎓 PhD Candidate at the Department of Computer Engineering & Informatics (CEID) at the University of Patras (Started from September 2023).
 - 🎓 Graduated from the Department of Computer Engineering & Informatics (CEID) at the University of Patras.
 - 👀 I’m interested in Computer Engineering & Informatics and more specifically in: Internet of Things (IoT), Ubiquitous Computing, Software Engineering, Artificial Intelligence (AI), Machine Learning (ML), WEB Technologies, Big Data Systems and Data Science
 - 📫 How to reach me: LinkdedIn Profile: https://www.linkedin.com/in/christos-panagiotis-mpalatsouras-66ab07146
