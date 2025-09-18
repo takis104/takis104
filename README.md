@@ -3,6 +3,7 @@
 - 💼 Data & AI Business Consulting at Accenture Greece (September 2023 - November 2024).
 - 🎓 PhD Candidate at the Department of Computer Engineering & Informatics (CEID) at the University of Patras (Started from September 2023).
 - 🎓 Graduated from the Department of Computer Engineering & Informatics (CEID) at the University of Patras (October 2017 - August 2023).
+- 🏅 Microsoft Certified: AZ-900 (September 2025).
 - 👀 I’m interested in Computer Engineering & Informatics and more specifically in: Internet of Things (IoT), Ubiquitous Computing, Software Engineering, Artificial Intelligence (AI), Machine Learning (ML), WEB Technologies, Big Data Systems and Data Science
 - 📫 How to reach me: LinkdedIn Profile: https://www.linkedin.com/in/christos-panagiotis-mpalatsouras-66ab07146
 - 🎓 Christos Balatsouras @ Google Scholar: https://scholar.google.com/citations?user=twsAYkIAAAAJ&hl=el
