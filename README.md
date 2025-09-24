@@ -1,5 +1,6 @@
 # About me
 - 👋 Hi, I’m @takis104, I am a Computer Engineer, MEng & 10x Developer (One-man Entire IT Department)
+- 💼 Technology Consultant at EY Greece (September 2025 - Present).
 - 💼 Data & AI Business Consulting at Accenture Greece (September 2023 - November 2024).
 - 🎓 PhD Candidate at the Department of Computer Engineering & Informatics (CEID) at the University of Patras (Started from September 2023).
 - 🎓 Graduated from the Department of Computer Engineering & Informatics (CEID) at the University of Patras (October 2017 - August 2023).
