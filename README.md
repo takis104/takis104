@@ -12,12 +12,14 @@
   + 📺 YouTube Channel: https://www.youtube.com/@christosbalatsouras
 
 ## 💼 Work Experience
-- Technology Consultant at EY Greece (September 2025 - Present).
-- Data & AI Business Consulting at Accenture Greece (September 2023 - November 2024).
+- Data & AI Business Consulting @ Accenture Greece (September 2023 - November 2024).
+- Technology Consultant @ EY Greece (September 2025 - June 2026).
+- Senior Technology Consultant @ EY Greece (July 2026 - Present).
 
 ## 🎓 Education
-- PhD Candidate at the Department of Computer Engineering & Informatics (CEID) at the University of Patras (Started from September 2023).
 - Graduated from the Department of Computer Engineering & Informatics (CEID) at the University of Patras (October 2017 - August 2023).
+- MSc Student @ Advanced Informatics - Software Engineering & Artificial Intelligence, University of Piraeus (October 2026 - Present)
+<!--- PhD Candidate at the Department of Computer Engineering & Informatics (CEID) at the University of Patras (Started from September 2023). --->
 
 ## 🏅 Tech Certifications
 - Microsoft Certified: Azure Fundamentals (AZ-900) (September 2025).
